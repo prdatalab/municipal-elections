@@ -2,10 +2,14 @@
 
 This respository includes several CSV files on with the results of Puerto Rico's municipal elections. 
 
-Much of the data was collected from: 
+Most of the data was collected from Puerto Rico's [Comisión Estatal de Elecciones](https://www.ceepur.org). I also used data from Manuel Alvarez Rivera's website - [Elecciones in Puerto Rico](https://electionspuertorico.org/home_es.html) to ascertain the gender of the winning mayors.
 
-1. Puerto Rico's [Comisión Estatal de Elecciones](https://www.ceepur.org)
-2. Manuel Alvarez Rivera's website - [Elecciones in Puerto Rico](https://electionspuertorico.org/home_es.html)
+Here is a list of the CSV files with a short description found in this repository.
+
+| File Name | Description |
+| ----------- | ----------- |
+| 99 | Title |
+| 99 | Text |
 
 
 
