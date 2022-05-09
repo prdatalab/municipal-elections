@@ -8,8 +8,8 @@ Here is a list of the CSV files with a short description found in this repositor
 
 | File Name | Description |
 | ----------- | ----------- |
-| tidy_municipalities_elections_pr_data | This CSV includes the results of Puerto Rico's municipal elections for mayors from 1976 to 2020. There are missing data from 1976 to 1988. From 1992 to 2020, the dataset includes the name of the winning candidate and the gender of the candidate. It includes vote tallies for major and fringe political parties as well as votes for independent and writing-in candidates. |
-| -| This CSV includes the winning party for municipal elections for Puerto Rico's 78 mayors from 1976-2020.|
+| tidy_municipalities_elections_pr_data.csv | This CSV includes the results of Puerto Rico's municipal elections for mayors from 1976 to 2020. There are missing data from 1976 to 1988. From 1992 to 2020, the dataset includes the name of the winning candidate and the gender of the candidate. It includes vote tallies for major and fringe political parties as well as votes for independent and writing-in candidates. |
+| municipal_elec_pr_mayors_party_year.csv| This CSV includes the winning party for municipal elections for Puerto Rico's 78 mayors from 1976-2020.|
 
 
 
