@@ -40,7 +40,7 @@ These CSV share the same variable. Here are a list and a short description of th
 - mus_per: Percent of the MUS's vote.
 - local_votes: Vote tally for the local candidate (*This is a a designation that appears in the results tabulated by the Puerto Rico's Comision Estatal de Elecciones*).
 - local_per: Percent of the vote for the local candidate.
-- total: A tally of all casted votes (*Note that adding all the previous variable may no equal this total. This dataset does not include the number of spoiled or blank ballots*).
+- total: A tally of all votes (*Note that adding all the previous variables may no equal this total. This dataset does not include the number of spoiled or blank ballots*).
 
 
 
