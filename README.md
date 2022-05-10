@@ -13,7 +13,7 @@ Here is a list of the CSV files with a short description found in this repositor
 |elec_mayors_pr_index_1976_2020.csv| This CSV is part of a project indexing the influence of Puerto Rico's main political parties at the municipal level. If the PNP candidate won the mayoral election, the win is represented as a 1. If the PPD candidate won the race, the victory is presented as -1. Thus, overtime we can calculate whether a municipality has been more closely aligned with the PNP or PPD. Thus, scores closer to 1 means that the municipality has aligned the PNP, while scores closer to -1 show that the municipality is aligned with the PPD.|
 
 
-These CSV share the same file names. Here are a list and a short description of the variables used in the first file.
+These CSV share the same variable. Here are a list and a short description of the variables used in the first file.
 
 - year: This represents the year of the election.
 - municipality: The name of Puerto Rico's 78 municipalities.
